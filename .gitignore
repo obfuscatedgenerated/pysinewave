@@ -3,3 +3,4 @@ venv
 /dist/
 /build/
 /pysinewave.egg-info/
+.DS_Store
